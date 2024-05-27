@@ -1,4 +1,4 @@
-# Game Development / Update 5.12.24
+# Game Development / Update 5.26.24
 
 - **Name**: Jonathan Reed
 - **song while writing this**: https://www.youtube.com/watch?v=yzP29HGFRBw
@@ -17,4 +17,4 @@
 ## Lessons Learned
 
 - fully ready and excited to finish up the Kingdom demo. Work on it has started in full now
-- as a personal milestone id like to return to this project and try to recreate it wa c++ script
+- as a personal milestone id like to return to this project and try to recreate it in c++ script
